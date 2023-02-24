@@ -16,7 +16,7 @@
 > This website contains information about understanding, thoughts, and reference information. Users can navigate to different pages using the links in the navigation menu.
 
 **Authors**
-> [Israel](https://github.dev/ribeiroroqueisrael/) - Initial work - jane-doe
+> [Israel](https://github.dev/ribeiroroqueisrael/)
 
 ### Acknowledgments
 The HTML templates used in this project.
