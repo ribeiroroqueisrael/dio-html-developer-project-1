@@ -9,7 +9,7 @@
 
 **Installing**
 1. Clone the repository: git clone https://github.com/myusername/simple-html-website.git
-1. Navigate to the project directory: cd simple-html-website
+1. Navigate to the project directory: cd dio-html-developer-project-1
 1. Open the file index.html in your preferred web browser
 
 **Usage**
